@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey, I’m Sohum 👋
 
-<!--
-**Sohum-Nikam/Sohum-Nikam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love building things on the web — especially where **MERN stack and AI** come together.
 
-Here are some ideas to get you started:
+For me, development isn’t just about writing code. It’s about taking an idea, shaping it into something real, and making it solve an actual problem. Whether it’s a smart dashboard, an automation tool, or an AI-powered feature that makes a product feel alive — I enjoy building systems that are practical, scalable, and thoughtfully designed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+* Build full-stack applications using **MongoDB, Express, React, Node.js**
+* Integrate **AI features** into real-world products
+* Design clean backend architectures
+* Create smooth, intuitive frontend experiences
+* Turn raw ideas into working, production-ready systems
+
+## 🧠 How I Think
+
+I care about:
+
+* Clean and maintainable code
+* Performance and scalability
+* Real-world impact over hype
+* Continuous learning and experimentation
+
+I’m always exploring new ideas, testing new technologies, and pushing projects beyond the “just works” stage into something that feels solid and meaningful.
+
+## ⚡ Current Focus
+
+Building intelligent web products that combine:
+
+* Strong backend fundamentals
+* Data-driven decision making
+* AI-powered automation
+* Seamless UI/UX
+
+---
+
+Always experimenting. Always building.
