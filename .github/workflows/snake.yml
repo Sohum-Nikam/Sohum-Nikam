@@ -5,10 +5,10 @@ on:
     - cron: "0 0 * * *"      # daily at 00:00 UTC
   workflow_dispatch:          # manual run from the Actions tab
   push:
-    branches: [main]          # pushes to "output" do NOT retrigger this
+    branches: [main]
 
 permissions:
-  contents: write             # needed only to push the output branch
+  contents: write             # only needed to push the output branch
 
 concurrency:
   group: snake
@@ -19,15 +19,21 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate snake SVGs
+      - name: Generate snake SVG (cyberpunk palette)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#FCEE0A&color_dots=#141B33,#0B4F6C,#00A3B4,#00F0FF,#FF2A6D
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # snk SVGs are transparent; add a dark background so the grid looks identical in GitHub light and dark themes
+      - name: Add dark background
+        run: |
+          f=dist/github-contribution-grid-snake-dark.svg
+          sed -i -E '0,/<svg[^>]*>/s//&<rect x="-50" y="-50" width="5000" height="5000" fill="#0A0E1A"\/>/' "$f"
+          grep -c '#0A0E1A' "$f"
 
       - name: Publish to output branch
         uses: peaceiris/actions-gh-pages@v4
@@ -35,4 +41,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: ./dist
-          force_orphan: true   # keeps the branch at one commit; no history bloat
+          force_orphan: true
