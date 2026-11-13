@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=20&duration=3000&pause=1200&color=19E3F0&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI%2FML+Enthusiast;MERN+Stack+Developer;Generative+AI+Explorer;Software+Engineer" alt="Full-Stack Developer, AI/ML Enthusiast, MERN Stack Developer, Generative AI Explorer, Software Engineer" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=20&duration=3000&pause=1200&color=19E3F0&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI%2FML+Enthusiast;MERN+Stack+Developer;Generative+AI+Explorer;Software+Engineer" alt="Full-Stack Developer, AI/ML Enthusiast, MERN Stack Developer, Generative AI Explorer, Software Engineer" /> -->
 
 <br/>
 
