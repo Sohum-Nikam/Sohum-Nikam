@@ -1,13 +1,15 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Sohum Nikam — Full-Stack Developer and AI/ML Engineer" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&width=640&height=40&lines=Full-Stack+Developer;AI%2FML+Enthusiast;MERN+Stack+Developer;Generative+AI+Explorer;Software+Engineer" alt="Typing animation: Full-Stack Developer, AI/ML Enthusiast, MERN Stack Developer, Generative AI Explorer, Software Engineer" />
+<img src="./assets/hero.gif" alt="Sohum Nikam, Full-Stack Developer and AI/ML Engineer" width="100%" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSohum-Nikam&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&color=00F0FF&labelColor=0A0E1A" alt="Public repositories" />
-<img src="https://img.shields.io/github/followers/Sohum-Nikam?label=FOLLOWERS&style=for-the-badge&color=FF2A6D&labelColor=0A0E1A" alt="GitHub followers" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=20&duration=3000&pause=1200&color=19E3F0&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI%2FML+Enthusiast;MERN+Stack+Developer;Generative+AI+Explorer;Software+Engineer" alt="Full-Stack Developer, AI/ML Enthusiast, MERN Stack Developer, Generative AI Explorer, Software Engineer" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/public_repos-live-19E3F0?style=for-the-badge&labelColor=070D13" alt="Public repositories" />
+<img src="https://img.shields.io/github/followers/Sohum-Nikam?label=followers&style=for-the-badge&color=FF5A36&labelColor=070D13" alt="GitHub followers" />
 
 </div>
 
@@ -27,19 +29,67 @@ My focus is **full-stack (MERN) development** and **applied AI/ML**, including A
 - Looking for help with **Nyay.ai**
 - Writing on [Medium](https://medium.com/@sohumnikam868)
 - Ask me about **backend architecture, system design, startups, MERN, AI/ML, DevOps**
-- Fun fact: I'm a polymath
 
 <img src="./assets/h-stack.svg" alt="Tech stack" width="100%" />
 
-| | |
-|---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp" alt="Python, JavaScript, TypeScript, Java, C++" /> ![SQL](https://img.shields.io/badge/SQL-141B33?style=flat-square) |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="React, Next.js, Tailwind CSS, HTML, CSS" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express" /> ![REST APIs](https://img.shields.io/badge/REST_APIs-141B33?style=flat-square) |
-| **AI & ML** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,numpy,pandas" alt="PyTorch, TensorFlow, NumPy, Pandas" /> ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-141B33?style=flat-square) ![Matplotlib](https://img.shields.io/badge/Matplotlib-141B33?style=flat-square) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-141B33?style=flat-square) |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" alt="MongoDB, MySQL, Firebase, Supabase" /> ![ChromaDB](https://img.shields.io/badge/ChromaDB-141B33?style=flat-square) |
-| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,bash" alt="AWS, Docker, Kubernetes, GitHub Actions, Bash" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git, GitHub, VS Code, Figma" /> ![Claude](https://img.shields.io/badge/Claude-141B33?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-141B33?style=flat-square) |
+<div align="center">
+
+**Languages**
+
+<img src="./assets/stack/python.svg" height="34" alt="Python" title="Python" /> &nbsp;
+<img src="./assets/stack/javascript.svg" height="34" alt="JavaScript" title="JavaScript" /> &nbsp;
+<img src="./assets/stack/typescript.svg" height="34" alt="TypeScript" title="TypeScript" /> &nbsp;
+<img src="./assets/stack/java.svg" height="34" alt="Java" title="Java" /> &nbsp;
+<img src="./assets/stack/cpp.svg" height="34" alt="C++" title="C++" /> &nbsp;
+<img src="./assets/stack/sql.svg" height="34" alt="SQL" title="SQL" />
+
+**Frontend**
+
+<img src="./assets/stack/react.svg" height="34" alt="React" title="React" /> &nbsp;
+<img src="./assets/stack/nextjs.svg" height="34" alt="Next.js" title="Next.js" /> &nbsp;
+<img src="./assets/stack/tailwind.svg" height="34" alt="Tailwind CSS" title="Tailwind CSS" /> &nbsp;
+<img src="./assets/stack/html.svg" height="34" alt="HTML" title="HTML" /> &nbsp;
+<img src="./assets/stack/css.svg" height="34" alt="CSS" title="CSS" />
+
+**Backend**
+
+<img src="./assets/stack/nodejs.svg" height="34" alt="Node.js" title="Node.js" /> &nbsp;
+<img src="./assets/stack/express.svg" height="34" alt="Express" title="Express" /> &nbsp;
+REST APIs
+
+**AI & Machine Learning**
+
+<img src="./assets/stack/pytorch.svg" height="34" alt="PyTorch" title="PyTorch" /> &nbsp;
+<img src="./assets/stack/tensorflow.svg" height="34" alt="TensorFlow" title="TensorFlow" /> &nbsp;
+<img src="./assets/stack/numpy.svg" height="34" alt="NumPy" title="NumPy" /> &nbsp;
+<img src="./assets/stack/pandas.svg" height="34" alt="Pandas" title="Pandas" /> &nbsp;
+<img src="./assets/stack/scikit.svg" height="34" alt="Scikit-learn" title="Scikit-learn" />
+
+**Databases**
+
+<img src="./assets/stack/mongodb.svg" height="34" alt="MongoDB" title="MongoDB" /> &nbsp;
+<img src="./assets/stack/mysql.svg" height="34" alt="MySQL" title="MySQL" /> &nbsp;
+<img src="./assets/stack/firebase.svg" height="34" alt="Firebase" title="Firebase" /> &nbsp;
+<img src="./assets/stack/supabase.svg" height="34" alt="Supabase" title="Supabase" />
+
+**Cloud & DevOps**
+
+<img src="./assets/stack/aws.svg" height="34" alt="AWS" title="AWS" /> &nbsp;
+<img src="./assets/stack/docker.svg" height="34" alt="Docker" title="Docker" /> &nbsp;
+<img src="./assets/stack/kubernetes.svg" height="34" alt="Kubernetes" title="Kubernetes" /> &nbsp;
+<img src="./assets/stack/githubactions.svg" height="34" alt="GitHub Actions" title="GitHub Actions" /> &nbsp;
+<img src="./assets/stack/bash.svg" height="34" alt="Bash" title="Bash" />
+
+**Tools**
+
+<img src="./assets/stack/git.svg" height="34" alt="Git" title="Git" /> &nbsp;
+<img src="./assets/stack/github.svg" height="34" alt="GitHub" title="GitHub" /> &nbsp;
+<img src="./assets/stack/vscode.svg" height="34" alt="VS Code" title="VS Code" /> &nbsp;
+<img src="./assets/stack/figma.svg" height="34" alt="Figma" title="Figma" />
+
+</div>
+
+<br/>
 
 <img src="./assets/h-experience.svg" alt="Experience" width="100%" />
 
@@ -55,39 +105,40 @@ My focus is **full-stack (MERN) development** and **applied AI/ML**, including A
 
 | Project | Overview | Built with |
 |---|---|---|
-| **[AI Ticket Assistant](https://github.com/Sohum-Nikam/AI-Ticket-Assistant)** | AI-powered Micro-SaaS exploring AI in ticket management and support workflows | MERN, LLM integration |
-| **[ORIGIN ∞ (OriginHacks)](https://github.com/Sohum-Nikam/OriginHacks)** | AI-powered civilization impact simulator and digital-legacy platform exploring multi-generational decision outcomes | Next.js, TypeScript, Three.js, Prisma, PostgreSQL, Anthropic SDK |
+| **[AI Ticket Assistant](https://github.com/Sohum-Nikam/AI-Ticket-Assistant)** | AI-powered Micro-SaaS for ticket management and support workflows | MERN, LLM integration |
+| **[ORIGIN ∞ (OriginHacks)](https://github.com/Sohum-Nikam/OriginHacks)** | AI-powered civilization impact simulator exploring multi-generational decision outcomes | Next.js, TypeScript, Three.js, Prisma, PostgreSQL |
 | **[AI-agent](https://github.com/Sohum-Nikam/AI-agent)** | Real-time AI agent integrating Python and LangChain | Python, LangChain |
-| **Nyay.ai** | AI-powered legal intelligence platform. *Under development; repository link coming soon.* | _To be added_ |
+| **Nyay.ai** | AI-powered legal intelligence platform, in development | Repository coming soon |
 
 <img src="./assets/h-analytics.svg" alt="GitHub analytics" width="100%" />
 
 <table>
 <tr>
 <td width="50%" align="center">
-<img alt="GitHub stats for Sohum-Nikam" src="https://github-readme-stats.vercel.app/api?username=Sohum-Nikam&show_icons=true&include_all_commits=true&bg_color=0A0E1A&title_color=00F0FF&text_color=C9D1D9&icon_color=FF2A6D&border_color=1F2A44" />
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Sohum-Nikam&show_icons=true&include_all_commits=true&bg_color=070D13&title_color=19E3F0&text_color=EAFBFF&icon_color=FF5A36&border_color=14303A" />
 </td>
 <td width="50%" align="center">
-<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohum-Nikam&layout=compact&langs_count=8&bg_color=0A0E1A&title_color=00F0FF&text_color=C9D1D9&border_color=1F2A44" />
+<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohum-Nikam&layout=compact&langs_count=8&bg_color=070D13&title_color=19E3F0&text_color=EAFBFF&border_color=14303A" />
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-<img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=Sohum-Nikam&background=0A0E1A&border=1F2A44&stroke=1F2A44&ring=FF2A6D&fire=FCEE0A&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=FF2A6D&sideLabels=C9D1D9&dates=8B949E" />
+<img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=Sohum-Nikam&background=070D13&border=14303A&stroke=14303A&ring=FF5A36&fire=FF5A36&currStreakNum=19E3F0&sideNums=19E3F0&currStreakLabel=FF5A36&sideLabels=EAFBFF&dates=8B949E" />
 
-<img alt="Contribution activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sohum-Nikam&bg_color=0A0E1A&color=00F0FF&line=FF2A6D&point=FCEE0A&area=true&area_color=B026FF&hide_border=true" />
+<img alt="Contribution activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sohum-Nikam&bg_color=070D13&color=19E3F0&line=FF5A36&point=FFFFFF&area=true&area_color=7A5CFF&hide_border=true" />
 
 </div>
 
-<img src="./assets/h-calendar.svg" alt="Contribution grid" width="100%" />
+<img src="./assets/h-calendar.svg" alt="Contribution activity" width="100%" />
 
-<img alt="Contribution snake consuming my GitHub contribution grid" src="https://raw.githubusercontent.com/Sohum-Nikam/Sohum-Nikam/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img alt="Contribution snake" src="https://raw.githubusercontent.com/Sohum-Nikam/Sohum-Nikam/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 <img src="./assets/h-connect.svg" alt="Connect" width="100%" />
 
-<p>
+<div align="center">
+
 <a href="https://www.linkedin.com/in/sohum-nikam-608441215/"><img src="./assets/c-linkedin.svg" alt="LinkedIn" /></a>
 <a href="https://x.com/techgeekyy"><img src="./assets/c-x.svg" alt="X" /></a>
 <a href="https://medium.com/@sohumnikam868"><img src="./assets/c-medium.svg" alt="Medium" /></a>
@@ -99,6 +150,5 @@ My focus is **full-stack (MERN) development** and **applied AI/ML**, including A
 <a href="https://www.hackerearth.com/@sohumnikam868/"><img src="./assets/c-hackerearth.svg" alt="HackerEarth" /></a>
 <a href="https://www.geeksforgeeks.org/user/sohumni5u1i/"><img src="./assets/c-gfg.svg" alt="GeeksforGeeks" /></a>
 <a href="mailto:sohumnikam868@gmail.com"><img src="./assets/c-email.svg" alt="Email" /></a>
-</p>
 
-<img src="./assets/footer.svg" alt="" width="100%" />
+</div>
