@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.gif" alt="Sohum Nikam, Full-Stack Developer and AI/ML Engineer" width="100%" />
+<img src="./assets/hero.gif" alt="Cyberpunk workspace banner" width="100%" />
 
 <br/>
 
@@ -8,7 +8,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/public_repos-live-19E3F0?style=for-the-badge&labelColor=070D13" alt="Public repositories" />
 <img src="https://img.shields.io/github/followers/Sohum-Nikam?label=followers&style=for-the-badge&color=FF5A36&labelColor=070D13" alt="GitHub followers" />
 
 </div>
@@ -32,64 +31,15 @@ My focus is **full-stack (MERN) development** and **applied AI/ML**, including A
 
 <img src="./assets/h-stack.svg" alt="Tech stack" width="100%" />
 
-<div align="center">
-
-**Languages**
-
-<img src="./assets/stack/python.svg" height="34" alt="Python" title="Python" /> &nbsp;
-<img src="./assets/stack/javascript.svg" height="34" alt="JavaScript" title="JavaScript" /> &nbsp;
-<img src="./assets/stack/typescript.svg" height="34" alt="TypeScript" title="TypeScript" /> &nbsp;
-<img src="./assets/stack/java.svg" height="34" alt="Java" title="Java" /> &nbsp;
-<img src="./assets/stack/cpp.svg" height="34" alt="C++" title="C++" /> &nbsp;
-<img src="./assets/stack/sql.svg" height="34" alt="SQL" title="SQL" />
-
-**Frontend**
-
-<img src="./assets/stack/react.svg" height="34" alt="React" title="React" /> &nbsp;
-<img src="./assets/stack/nextjs.svg" height="34" alt="Next.js" title="Next.js" /> &nbsp;
-<img src="./assets/stack/tailwind.svg" height="34" alt="Tailwind CSS" title="Tailwind CSS" /> &nbsp;
-<img src="./assets/stack/html.svg" height="34" alt="HTML" title="HTML" /> &nbsp;
-<img src="./assets/stack/css.svg" height="34" alt="CSS" title="CSS" />
-
-**Backend**
-
-<img src="./assets/stack/nodejs.svg" height="34" alt="Node.js" title="Node.js" /> &nbsp;
-<img src="./assets/stack/express.svg" height="34" alt="Express" title="Express" /> &nbsp;
-REST APIs
-
-**AI & Machine Learning**
-
-<img src="./assets/stack/pytorch.svg" height="34" alt="PyTorch" title="PyTorch" /> &nbsp;
-<img src="./assets/stack/tensorflow.svg" height="34" alt="TensorFlow" title="TensorFlow" /> &nbsp;
-<img src="./assets/stack/numpy.svg" height="34" alt="NumPy" title="NumPy" /> &nbsp;
-<img src="./assets/stack/pandas.svg" height="34" alt="Pandas" title="Pandas" /> &nbsp;
-<img src="./assets/stack/scikit.svg" height="34" alt="Scikit-learn" title="Scikit-learn" />
-
-**Databases**
-
-<img src="./assets/stack/mongodb.svg" height="34" alt="MongoDB" title="MongoDB" /> &nbsp;
-<img src="./assets/stack/mysql.svg" height="34" alt="MySQL" title="MySQL" /> &nbsp;
-<img src="./assets/stack/firebase.svg" height="34" alt="Firebase" title="Firebase" /> &nbsp;
-<img src="./assets/stack/supabase.svg" height="34" alt="Supabase" title="Supabase" />
-
-**Cloud & DevOps**
-
-<img src="./assets/stack/aws.svg" height="34" alt="AWS" title="AWS" /> &nbsp;
-<img src="./assets/stack/docker.svg" height="34" alt="Docker" title="Docker" /> &nbsp;
-<img src="./assets/stack/kubernetes.svg" height="34" alt="Kubernetes" title="Kubernetes" /> &nbsp;
-<img src="./assets/stack/githubactions.svg" height="34" alt="GitHub Actions" title="GitHub Actions" /> &nbsp;
-<img src="./assets/stack/bash.svg" height="34" alt="Bash" title="Bash" />
-
-**Tools**
-
-<img src="./assets/stack/git.svg" height="34" alt="Git" title="Git" /> &nbsp;
-<img src="./assets/stack/github.svg" height="34" alt="GitHub" title="GitHub" /> &nbsp;
-<img src="./assets/stack/vscode.svg" height="34" alt="VS Code" title="VS Code" /> &nbsp;
-<img src="./assets/stack/figma.svg" height="34" alt="Figma" title="Figma" />
-
-</div>
-
-<br/>
+| Category | Technologies |
+|---|---|
+| **Languages** | <img src="./assets/stack/python.svg" height="28" alt="Python" title="Python" /> <img src="./assets/stack/javascript.svg" height="28" alt="JavaScript" title="JavaScript" /> <img src="./assets/stack/typescript.svg" height="28" alt="TypeScript" title="TypeScript" /> <img src="./assets/stack/java.svg" height="28" alt="Java" title="Java" /> <img src="./assets/stack/cpp.svg" height="28" alt="C++" title="C++" /> <img src="./assets/stack/sql.svg" height="28" alt="SQL" title="SQL" /> |
+| **Frontend** | <img src="./assets/stack/react.svg" height="28" alt="React" title="React" /> <img src="./assets/stack/nextjs.svg" height="28" alt="Next.js" title="Next.js" /> <img src="./assets/stack/tailwind.svg" height="28" alt="Tailwind CSS" title="Tailwind CSS" /> <img src="./assets/stack/html.svg" height="28" alt="HTML5" title="HTML5" /> <img src="./assets/stack/css.svg" height="28" alt="CSS3" title="CSS3" /> |
+| **Backend** | <img src="./assets/stack/nodejs.svg" height="28" alt="Node.js" title="Node.js" /> <img src="./assets/stack/express.svg" height="28" alt="Express" title="Express" /> ![REST APIs](https://img.shields.io/badge/REST_APIs-141B33?style=flat-square) |
+| **AI and ML** | <img src="./assets/stack/pytorch.svg" height="28" alt="PyTorch" title="PyTorch" /> <img src="./assets/stack/tensorflow.svg" height="28" alt="TensorFlow" title="TensorFlow" /> <img src="./assets/stack/numpy.svg" height="28" alt="NumPy" title="NumPy" /> <img src="./assets/stack/pandas.svg" height="28" alt="Pandas" title="Pandas" /> <img src="./assets/stack/scikit.svg" height="28" alt="Scikit-learn" title="Scikit-learn" /> ![Hugging Face](https://img.shields.io/badge/Hugging_Face-141B33?style=flat-square) |
+| **Databases** | <img src="./assets/stack/mongodb.svg" height="28" alt="MongoDB" title="MongoDB" /> <img src="./assets/stack/mysql.svg" height="28" alt="MySQL" title="MySQL" /> <img src="./assets/stack/firebase.svg" height="28" alt="Firebase" title="Firebase" /> <img src="./assets/stack/supabase.svg" height="28" alt="Supabase" title="Supabase" /> ![ChromaDB](https://img.shields.io/badge/ChromaDB-141B33?style=flat-square) |
+| **Cloud and DevOps** | <img src="./assets/stack/aws.svg" height="28" alt="AWS" title="AWS" /> <img src="./assets/stack/docker.svg" height="28" alt="Docker" title="Docker" /> <img src="./assets/stack/kubernetes.svg" height="28" alt="Kubernetes" title="Kubernetes" /> <img src="./assets/stack/githubactions.svg" height="28" alt="GitHub Actions" title="GitHub Actions" /> <img src="./assets/stack/bash.svg" height="28" alt="Bash" title="Bash" /> |
+| **Tools** | <img src="./assets/stack/git.svg" height="28" alt="Git" title="Git" /> <img src="./assets/stack/github.svg" height="28" alt="GitHub" title="GitHub" /> <img src="./assets/stack/vscode.svg" height="28" alt="VS Code" title="VS Code" /> <img src="./assets/stack/figma.svg" height="28" alt="Figma" title="Figma" /> ![Claude](https://img.shields.io/badge/Claude-141B33?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-141B33?style=flat-square) |
 
 <img src="./assets/h-experience.svg" alt="Experience" width="100%" />
 
