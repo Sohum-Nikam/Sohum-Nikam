@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="58" viewBox="0 0 900 58" role="img" aria-label="Connect">
+<defs><style>@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500;700&amp;display=swap');</style>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#19E3F0"/><stop offset="0.55" stop-color="#7A5CFF"/><stop offset="1" stop-color="#FF5A36"/></linearGradient>
+<clipPath id="c"><rect width="900" height="58" rx="10"/></clipPath></defs>
+<g clip-path="url(#c)"><rect width="900" height="58" fill="#070D13"/>
+<rect x="0" y="0" width="900" height="58" fill="none"/>
+<rect x="0" y="55" width="900" height="3" fill="url(#g)"/></g>
+<rect x="0.5" y="0.5" width="899" height="57" rx="10" fill="none" stroke="#14303A"/>
+<g transform="translate(22,15) scale(1.2)" fill="#19E3F0"><path d="M11 2.04938V4.06189C7.05369 4.55399 4 7.92038 4 12C4 16.4183 7.58172 20 12 20C16.0796 20 19.446 16.9463 19.9381 13H21.9506C21.4489 18.0533 17.1853 22 12 22C6.47715 22 2 17.5228 2 12C2 6.81465 5.94668 2.5511 11 2.04938ZM20 5.41421L12 13.4142L10.5858 12L18.5858 4H14V2H22V10H20V5.41421Z"/></g>
+<text x="62" y="37" font-family="Roboto,'Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="0.4" fill="#EAFBFF">Connect</text>
+</svg>

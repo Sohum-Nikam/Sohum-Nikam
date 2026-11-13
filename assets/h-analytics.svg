@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="58" viewBox="0 0 900 58" role="img" aria-label="GitHub Analytics">
+<defs><style>@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500;700&amp;display=swap');</style>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#19E3F0"/><stop offset="0.55" stop-color="#7A5CFF"/><stop offset="1" stop-color="#FF5A36"/></linearGradient>
+<clipPath id="c"><rect width="900" height="58" rx="10"/></clipPath></defs>
+<g clip-path="url(#c)"><rect width="900" height="58" fill="#070D13"/>
+<rect x="0" y="0" width="900" height="58" fill="none"/>
+<rect x="0" y="55" width="900" height="3" fill="url(#g)"/></g>
+<rect x="0.5" y="0.5" width="899" height="57" rx="10" fill="none" stroke="#14303A"/>
+<g transform="translate(22,15) scale(1.2)" fill="#19E3F0"><path d="M3 3H21C21.5523 3 22 3.44772 22 4V20C22 20.5523 21.5523 21 21 21H3C2.44772 21 2 20.5523 2 20V4C2 3.44772 2.44772 3 3 3ZM4 5V19H20V5H4ZM7 13H9V17H7V13ZM11 7H13V17H11V7ZM15 10H17V17H15V10Z"/></g>
+<text x="62" y="37" font-family="Roboto,'Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="0.4" fill="#EAFBFF">GitHub Analytics</text>
+</svg>

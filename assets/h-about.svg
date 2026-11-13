@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="58" viewBox="0 0 900 58" role="img" aria-label="About">
+<defs><style>@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500;700&amp;display=swap');</style>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#19E3F0"/><stop offset="0.55" stop-color="#7A5CFF"/><stop offset="1" stop-color="#FF5A36"/></linearGradient>
+<clipPath id="c"><rect width="900" height="58" rx="10"/></clipPath></defs>
+<g clip-path="url(#c)"><rect width="900" height="58" fill="#070D13"/>
+<rect x="0" y="0" width="900" height="58" fill="none"/>
+<rect x="0" y="55" width="900" height="3" fill="url(#g)"/></g>
+<rect x="0.5" y="0.5" width="899" height="57" rx="10" fill="none" stroke="#14303A"/>
+<g transform="translate(22,15) scale(1.2)" fill="#19E3F0"><path d="M20 22H18V20C18 18.3431 16.6569 17 15 17H9C7.34315 17 6 18.3431 6 20V22H4V20C4 17.2386 6.23858 15 9 15H15C17.7614 15 20 17.2386 20 20V22ZM12 13C8.68629 13 6 10.3137 6 7C6 3.68629 8.68629 1 12 1C15.3137 1 18 3.68629 18 7C18 10.3137 15.3137 13 12 13ZM12 11C14.2091 11 16 9.20914 16 7C16 4.79086 14.2091 3 12 3C9.79086 3 8 4.79086 8 7C8 9.20914 9.79086 11 12 11Z"/></g>
+<text x="62" y="37" font-family="Roboto,'Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="0.4" fill="#EAFBFF">About</text>
+</svg>

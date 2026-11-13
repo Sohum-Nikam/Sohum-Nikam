@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="58" viewBox="0 0 900 58" role="img" aria-label="Tech Stack">
+<defs><style>@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500;700&amp;display=swap');</style>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#19E3F0"/><stop offset="0.55" stop-color="#7A5CFF"/><stop offset="1" stop-color="#FF5A36"/></linearGradient>
+<clipPath id="c"><rect width="900" height="58" rx="10"/></clipPath></defs>
+<g clip-path="url(#c)"><rect width="900" height="58" fill="#070D13"/>
+<rect x="0" y="0" width="900" height="58" fill="none"/>
+<rect x="0" y="55" width="900" height="3" fill="url(#g)"/></g>
+<rect x="0.5" y="0.5" width="899" height="57" rx="10" fill="none" stroke="#14303A"/>
+<g transform="translate(22,15) scale(1.2)" fill="#19E3F0"><path d="M24 12L18.3431 17.6569L16.9289 16.2426L21.1716 12L16.9289 7.75736L18.3431 6.34315L24 12ZM2.82843 12L7.07107 16.2426L5.65685 17.6569L0 12L5.65685 6.34315L7.07107 7.75736L2.82843 12ZM9.78845 21H7.66009L14.2116 3H16.3399L9.78845 21Z"/></g>
+<text x="62" y="37" font-family="Roboto,'Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="0.4" fill="#EAFBFF">Tech Stack</text>
+</svg>
