@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.gif" alt="Cyberpunk workspace banner" width="100%" />
+<img src="./assets/hero2.gif" alt="Cyberpunk workspace banner" width="100%" />
 
 <br/>
 
