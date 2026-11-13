@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/Sohum-Nikam?label=followers&style=for-the-badge&color=FF5A36&labelColor=070D13" alt="GitHub followers" />
+<!-- <img src="https://img.shields.io/github/followers/Sohum-Nikam?label=followers&style=for-the-badge&color=FF5A36&labelColor=070D13" alt="GitHub followers" /> -->
 
 </div>
 
