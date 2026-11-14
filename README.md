@@ -24,7 +24,7 @@ My focus is **full-stack (MERN) development** and **applied AI/ML**, including A
 
 - Building **Nyay.ai**, an AI-powered legal intelligence platform (in development)
 - Learning **AI/ML, model fine-tuning and optimization**
-- Looking to collaborate on [Raga AI](https://github.com/raga-ai-hub)
+- Looking to collaborate on [Cal.com](https://github.com/calcom/cal.diy.git)
 - Looking for help with **Nyay.ai**
 - Writing on [Medium](https://medium.com/@sohumnikam868)
 - Ask me about **backend architecture, system design, startups, MERN, AI/ML, DevOps**
